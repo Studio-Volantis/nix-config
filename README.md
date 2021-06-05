@@ -1,4 +1,4 @@
-# nix-config
+# NixOS-config
 <a href="https://nixos.wiki">
   <img src="https://camo.githubusercontent.com/a27f833c7ab58f5c679aa6789488200d6f7bcbdd85b639a13fd0d8becce52da8/68747470733a2f2f692e696d6775722e636f6d2f793359646e62482e706e67"/>
 </a> 
